@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #48464d;
+}
+canvas {
+  display: block;
+  margin: auto;
+  border: 2px dashed rgb(138, 0, 0);
+}
